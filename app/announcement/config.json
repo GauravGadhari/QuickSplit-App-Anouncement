@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "lastUpdated": "2024-12-07T18:00:00Z",
+  "announcements": [
+    {
+      "id": "test-announcement",
+      "enabled": true,
+      "dismissable": true,
+      "icon": "🎉",
+      "title": "Welcome to QuickSplit!",
+      "message": "Remote config is working! This announcement is loaded from GitHub.",
+      "type": "info",
+      "platforms": ["android", "ios"]
+    }
+  ],
+  "settings": {
+    "defaultCurrency": "₹",
+    "defaultPeople": 2,
+    "defaultTipPercent": 0,
+    "tipPresets": [0, 10, 15, 20],
+    "showTipButtons": true
+  },
+  "features": {
+    "showAds": true,
+    "showRewardedAds": true
+  }
+}
