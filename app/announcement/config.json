@@ -21,7 +21,8 @@
     "showTipButtons": true
   },
   "features": {
-    "showAds": true,
+    "showBannerAds": true,
+    "showInterstitialAds": true,
     "showRewardedAds": true
-  }
+}
 }
