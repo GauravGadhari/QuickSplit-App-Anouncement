@@ -1,24 +1,16 @@
 {
   "version": 2,
-  "lastUpdated": "2024-12-07T18:10:00Z",
+  "lastUpdated": "2024-12-07T18:30:00Z",
   "announcements": [
     {
-      "id": "mandatory-update-v2",
+      "id": "beta-thanks-v1",
       "enabled": true,
-      "dismissable": false,
-      "icon": "🚀",
-      "title": "Update Required",
-      "message": "A new version of QuickSplit is available with important improvements. Please update to continue using the app.",
-      "type": "update",
-      "platforms": ["android", "ios"],
-      "maxVersion": "1.0.0",
-      "actions": [
-        {
-          "label": "Update Now",
-          "action": "link",
-          "url": "https://play.google.com/store/apps/details?id=com.light_timepass.quicksplit"
-        }
-      ]
+      "dismissable": true,
+      "icon": "🧪",
+      "title": "Thanks for Testing!",
+      "message": "You're part of our exclusive beta testing group! Your feedback helps us make QuickSplit better. Report any bugs or suggestions.",
+      "type": "info",
+      "platforms": ["android", "ios"]
     }
   ],
   "settings": {
